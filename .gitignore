@@ -1,2 +1,5 @@
 myenv/
 backend/venv/
+Spire.Doc.Base.dll
+Qt6WebEngineCore.dll
+myenv/Lib/site-packages/PySide6/Qt6WebEngineCore.dll
